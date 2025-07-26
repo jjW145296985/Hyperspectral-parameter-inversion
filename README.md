@@ -18,14 +18,6 @@ Spectral dropout respecting Beer-Lambert law
 
 Uncertainty-quantified outputs via MC Dropout
 
-• Key Breakthroughs
-
-23.7%↑ accuracy over SOTA (tested on LUCAS/NEON/HICO)
-
-5× faster inference with FlashAttention & GQA
-
-End-to-end radiometric correction (RMSE↓18%)
-
 Applications
 ⌖ Water quality monitoring
 ⌖ Precision agriculture (soil organic matter mapping)
